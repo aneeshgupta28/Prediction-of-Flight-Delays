@@ -1,4 +1,4 @@
-<This Project was completed in partial fulfillment of course CS407 - Artificial Intelligence>
+<This Project was completed in partial fulfillment of course CS F407 - Artificial Intelligence offered in 2nd Semester 22-23 at BITS Pilani>
 
 # Flight-Delay-Prediction
 
